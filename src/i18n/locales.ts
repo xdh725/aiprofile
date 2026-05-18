@@ -25,7 +25,7 @@ export const locales = {
         "一名热衷于探索技术边界的全栈开发工程师。从传统 Web 开发到 AI 应用，始终保持着对新技术的好奇心和探索欲。相信技术的力量可以改变世界，正在 AI 的浪潮中不断学习和成长。",
       stats: [
         { label: "年开发经验", value: "10+" },
-        { label: "作品集", value: "1+" },
+        { label: "开源项目", value: "10+" },
         { label: "AI 项目", value: "5+" },
         { label: "技术栈", value: "20+" },
       ],
@@ -88,7 +88,7 @@ export const locales = {
         "A full-stack developer passionate about exploring the boundaries of technology. From traditional web development to AI applications, I maintain a curiosity and desire to explore new technologies. I believe in the power of technology to change the world, and I'm constantly learning and growing in the AI wave.",
       stats: [
         { label: "Years Experience", value: "10+" },
-        { label: "Portfolio", value: "1+" },
+        { label: "Open Source Projects", value: "10+" },
         { label: "AI Projects", value: "5+" },
         { label: "Tech Stack", value: "20+" },
       ],
